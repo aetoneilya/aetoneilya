@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\code\labs\sem2_RGR\RGR\RGR\Source.cpp(71,17): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\code\labs\sem2_RGR\RGR\RGR\Source.cpp(127,17): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\code\labs\sem2_RGR\RGR\RGR\Source.cpp(235,17): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\code\labs\sem2_RGR\RGR\RGR\Source.cpp(249,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\code\labs\sem2_RGR\RGR\RGR\Source.cpp(259,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\code\labs\sem2_RGR\RGR\RGR\Source.cpp(269,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\code\labs\sem2_RGR\RGR\RGR\Source.cpp(279,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\code\labs\sem2_RGR\RGR\RGR\Source.cpp(359,17): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\code\labs\sem2_RGR\RGR\RGR\Source.cpp(373,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\code\labs\sem2_RGR\RGR\RGR\Source.cpp(382,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\code\labs\sem2_RGR\RGR\RGR\Source.cpp(391,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\code\labs\sem2_RGR\RGR\RGR\Source.cpp(400,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\code\labs\sem2_RGR\RGR\RGR\Source.cpp(203): warning C4715: DECODE_AES: значение возвращается не при всех путях выполнения
+  RGR.vcxproj -> C:\code\labs\sem2_RGR\RGR\Debug\RGR.exe
