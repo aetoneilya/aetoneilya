@@ -1,7 +1,0 @@
-﻿  task1.cpp
-C:\Users\Илья\source\repos\sem2_lab4\sem2_lab4\task1.cpp(23,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Илья\source\repos\sem2_lab4\sem2_lab4\task1.cpp(29,28): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Илья\source\repos\sem2_lab4\sem2_lab4\task1.cpp(30,25): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
-C:\Users\Илья\source\repos\sem2_lab4\sem2_lab4\task1.cpp(37,20): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Илья\source\repos\sem2_lab4\sem2_lab4\task1.cpp(40,22): warning C4018: <: несоответствие типов со знаком и без знака
-  sem2_lab4.vcxproj -> C:\Users\Илья\source\repos\sem2_lab4\Debug\sem2_lab4.exe
